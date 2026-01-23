@@ -1,10 +1,21 @@
-## 👋 Bem-vindo(a) ao perfil do Andre-gith 😁
+## 👋 Olá, eu sou o André
+
+🎓 Graduado em **Análise de Sistemas** pela **Estácio**  
+📚 Pós-graduação em **Full Stack** pela **FIAP** *(em andamento)*
+
+📜 Formação prática estruturada pela FIAP:
+- **Fase 1:** Projetos e No Code  
+- **Fase 2:** Backend e Qualidade de Software  
+
+Desenvolvedor focado em consolidar fundamentos sólidos de programação, boas práticas de desenvolvimento e construção de projetos práticos, com evolução técnica contínua.
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Andre-gith">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andre-gith&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-gith&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andre-gith&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-gith&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 ---
@@ -19,11 +30,15 @@
 
 ---
 
-### 🌐 Conteúdos sobre programação
-Me segue nas redes para acompanhar conteúdos sobre desenvolvimento e tecnologia 🚀
+### 📌 Atuação atual
+- Desenvolvimento de projetos práticos com foco em backend e fundamentos web
+- Aplicação de boas práticas, organização de código e controle de versão com Git
+- Evolução contínua por meio de estudos e projetos aplicados
 
 ---
 
-### 🐍 Minhas contribuições no GitHub
+### 🐍 Atividade no GitHub
 
-![Snake animation](https://raw.githubusercontent.com/Andre-gith/Andre-gith/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Andre-gith/Andre-gith/output/github-contribution-grid-snake.svg" />
+</div>
