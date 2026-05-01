@@ -5,7 +5,8 @@
 
 📜 Formação prática estruturada pela FIAP:
 - **Fase 1:** Projetos e No Code  
-- **Fase 2:** Backend e Qualidade de Software  
+- **Fase 2:** Backend e Qualidade de Software
+- **Fase 3:** FrontEnd  
 
 Desenvolvedor focado em consolidar fundamentos sólidos de programação, boas práticas de desenvolvimento e construção de projetos práticos, com evolução técnica contínua.
 
